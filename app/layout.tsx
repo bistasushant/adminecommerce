@@ -16,7 +16,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "SushantStore Admin",
+  title: "Admin panel",
   description: "Admin dashboard for SushantStore",
 };
 
